@@ -1,0 +1,44 @@
+Manual for Dinka Keyboard for Mac Users
+by Daniel Akech Thiong on Friday, 30 July 2010 at 13:32 ·
+
+What follows is a rough instruction for downloading the Dinka Keyboard for MAC users. Please if you are using windows then treat this as you would an email from someone who declares himself to be from Nigeria and that he has a business proposal for you ;-)
+
+----------------------------------------------
+
+0. Looi ëdë thɔn ë wuur? Are you a mac user or a windows user? How the heck does one figure this out? Well, when you shut down your computer do you click on the bottom left corner of your desktop screen or on the top left corner? If you say the bottom left, then you are using a windows and please stop reading now. If you say the top left corner, then continue on you are a comrade of mine.
+
+1. First of all click on this link:
+
+  http://www.openroad.net.au/languages/african/dinka/dinka-macosx.zip
+  
+  The downloads window should pop up on your screen. You should be able to see the file name "dinka.keylayout"
+
+2. Leave the downloads window open but minimize everything else so that you see a clear desktop screen.
+
+3. Double Click on the "Macintosh HD" icon
+
+4. You must be the administrator of your computer in order to be able to do this. If you are, then click on "administratorname" for example for my computer the word in quote reads "danielakech" with no quote.
+
+5. Under the administratorname Click on the LIBRARY folder
+
+6. Under library folder double click on KEYBOARD LAYOUTS folder to open it. It could be empty.
+
+7. Now go back to the downloads window and grab "dinka.keylayout" and drag it and drop it into the KEYBOARD LAYOUTS.
+
+8. Now close everything and log out of your computer.
+
+9. Log back on.
+
+10. Click on the System Preferences tab located on the bottom of your screen [usually].
+
+11. Double click on the LANGUAGE and TEXT [usually with a flag symbol]
+
+12. Click on INPUT SOURCES
+
+13. Scroll through the list of languages all the way to D and you should be able to bump into "Dinka". Check the box next to Dinka by clicking on it.
+
+14. Close everything. You now have the Dinka Keyboard on your computer.
+
+Where is it? The top right corner of your screen should have a flag [e.g US flag]. That tells you the language the keyboard is switched onto. So click on the flag and you should be able to see Dinka. Click on Dinka and now your keyboard is in Dinka mode.
+
+To test it, open for example Microsoft word and then make sure you have Dinka checked so that the dinka keyboard will work. Then type "Q" and you should see "ŋ". The rest can be gotten by typing s, x, and f. To place dots above a vowel, you just press down ALT OPTION key while pressing the letter you want.
